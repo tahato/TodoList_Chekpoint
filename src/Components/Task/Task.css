@@ -1,0 +1,26 @@
+.taskslist{
+   margin: 20px;
+   padding: 5px;
+}
+.task{
+    background-color: rgb(203, 199, 199,0.1);
+    padding:10px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 20px;
+}
+.task button{
+    background-color: blue;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-right: 10px ;
+    border-radius: 10px;
+    border: none;
+    width: 100px;
+    height: 25px;
+}
+select{
+    font-size: 20px;
+    border-radius: 10px;
+}
